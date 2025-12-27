@@ -1,5 +1,28 @@
+bin/
+dist/
+
+main
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.test
+*.out
+*.prof
+
+go.work
+go.work.sum
+
+# GoLand / IntelliJ
 .idea/
 *.iml
-*.ipr
-out/
-target/
+# VS Code
+.vscode/
+# Vim / Emacs
+*.swp
+*~
+
+.DS_Store
+Thumbs.db

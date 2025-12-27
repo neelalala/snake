@@ -1,5 +1,5 @@
 # Змейка по сети
-Описание формата протокола в файле [src/main/protobuf/snakes.proto](src/main/protobuf/snakes.proto).
+Описание формата протокола в файле [proto/snakes.proto](proto/snakes.proto).
 
 Текстовое описание игры в файле [snakes_task.md](snakes_task.md).
 
